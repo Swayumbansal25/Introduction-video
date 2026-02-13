@@ -12,6 +12,6 @@ I am a Computer Science student interested in:
 
 I enjoy building real-world projects and continuously improving my technical skills.
 
-## Introduction Video
-Please watch my introduction video below.
-
+## Watch My Introduction Video
+Click the link below to watch my video:
+[Watch Introduction Video](https://github.com/Swayumbansal25/Introduction-video/blob/main/Introduction%20video.mp4)
